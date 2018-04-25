@@ -1,2 +1,2 @@
 # Pattern-checking-FSM
-Code for FSM for which patterns can be edited and set
+Code for FSM for which patterns (with overlapping) can be edited and set
